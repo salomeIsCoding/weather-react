@@ -11,14 +11,14 @@ export default function Footer() {
         </a>
         , is{" "}
         <a
-          href="https://github.com/salomeIsCoding/Meteo_Forecast_App"
+          href="https://github.com/salomeIsCoding/weather-react"
           target="_blank" rel="noreferrer"
         >
           open-sourced on Github
         </a>{" "}
         and{" "}
         <a
-          href="https://app.netlify.com/sites/meteo-app-w8/overview"
+          href="https://app.netlify.com/sites/meteoapp-react/overview"
           target="_blank" rel="noreferrer"
         >
           hosted on Netlify.
