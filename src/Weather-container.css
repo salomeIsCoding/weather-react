@@ -1,0 +1,6 @@
+.weather-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    margin-left: 20px;
+}

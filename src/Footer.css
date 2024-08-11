@@ -1,0 +1,21 @@
+.footer {
+    position: relative;
+    left: -30px;
+    bottom: -30px;
+    display: block;
+    background-color: #8896c4;
+    color: white;
+    width: 720px;
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover {
+    color: #e5fd76;
+}
